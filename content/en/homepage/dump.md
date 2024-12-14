@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-![Example Dump](/images/dump.jpg)
+![Example Dump](images/dump.jpg)
 
 I can park the trailer at your location and you fill it up.  I can haul everything that is approved to be taken to the dump.  No damage to driveways, yards like a dumpster. 
 

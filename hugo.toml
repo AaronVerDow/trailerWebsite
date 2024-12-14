@@ -41,14 +41,14 @@ enableEmoji = true
     title = "Petra's Driveway Dumpster"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Move junk."
+    # description = "Move junk."
 
     # Show a menu of languages available
-    language_menu = true
+    language_menu = false
 
     # Show also a language menu item for the current language, if false only
     # show the remaining languages
-    show_current_lang = true
+    show_current_lang = false
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
